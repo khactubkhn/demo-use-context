@@ -1,0 +1,17 @@
+.meal-img img {
+    max-width: 50%;
+}
+
+.meal-img {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.meal-title {
+    text-align: center;
+}
+
+.meal-container {
+    height: 400px;
+}
